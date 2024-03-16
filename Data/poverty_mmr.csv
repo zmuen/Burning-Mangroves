@@ -1,0 +1,53 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Myanmar,MMR,2020,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,58.28105
+Myanmar,MMR,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,58.28105
+Myanmar,MMR,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,55.07197
+Myanmar,MMR,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,51.8629
+Myanmar,MMR,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,48.65382
+Myanmar,MMR,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,45.44474
+Myanmar,MMR,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,42.23566
+Myanmar,MMR,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,39.02659
+Myanmar,MMR,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,35.81751
+Myanmar,MMR,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,32.60843
+Myanmar,MMR,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,29.39935
+Myanmar,MMR,2017,Income share held by second 20%,SI.DST.02ND.20,13
+Myanmar,MMR,2015,Income share held by second 20%,SI.DST.02ND.20,11.3
+Myanmar,MMR,2017,Income share held by third 20%,SI.DST.03RD.20,16.6
+Myanmar,MMR,2015,Income share held by third 20%,SI.DST.03RD.20,15
+Myanmar,MMR,2017,Income share held by fourth 20%,SI.DST.04TH.20,21.6
+Myanmar,MMR,2015,Income share held by fourth 20%,SI.DST.04TH.20,20.6
+Myanmar,MMR,2017,Income share held by highest 20%,SI.DST.05TH.20,39.9
+Myanmar,MMR,2015,Income share held by highest 20%,SI.DST.05TH.20,45.7
+Myanmar,MMR,2017,Income share held by highest 10%,SI.DST.10TH.10,25.5
+Myanmar,MMR,2015,Income share held by highest 10%,SI.DST.10TH.10,31.7
+Myanmar,MMR,2017,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.7
+Myanmar,MMR,2015,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9
+Myanmar,MMR,2017,Income share held by lowest 10%,SI.DST.FRST.10,3.8
+Myanmar,MMR,2015,Income share held by lowest 10%,SI.DST.FRST.10,3
+Myanmar,MMR,2017,Income share held by lowest 20%,SI.DST.FRST.20,8.9
+Myanmar,MMR,2015,Income share held by lowest 20%,SI.DST.FRST.20,7.3
+Myanmar,MMR,2017,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,2
+Myanmar,MMR,2015,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,6.2
+Myanmar,MMR,2017,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.3
+Myanmar,MMR,2015,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,1.4
+Myanmar,MMR,2017,Gini index,SI.POV.GINI,30.7
+Myanmar,MMR,2015,Gini index,SI.POV.GINI,38.1
+Myanmar,MMR,2017,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,19.6
+Myanmar,MMR,2015,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,30
+Myanmar,MMR,2017,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,4
+Myanmar,MMR,2015,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,7.9
+Myanmar,MMR,2017,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,24.8
+Myanmar,MMR,2015,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,32.1
+Myanmar,MMR,2010,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,42.2
+Myanmar,MMR,2005,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,48.2
+Myanmar,MMR,2017,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,68.2
+Myanmar,MMR,2015,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,72.8
+Myanmar,MMR,2017,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,23.5
+Myanmar,MMR,2015,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,29.7
+Myanmar,MMR,2017,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,3.59
+Myanmar,MMR,2015,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,2.99
+Myanmar,MMR,2017,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,9.46
+Myanmar,MMR,2017,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,6.58
+Myanmar,MMR,2015,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,6.41
+Myanmar,MMR,2017,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,1.28
